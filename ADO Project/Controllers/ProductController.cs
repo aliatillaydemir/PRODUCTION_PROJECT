@@ -28,7 +28,21 @@ namespace ADO_Project.Controllers
         // GET: Product/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            try
+            {
+                var product = _productDAL.GetProductByID(id).FirstOrDefault();
+                if (product == null)
+                {
+                    TempData["InfoMessage"] = "Product not available with ID" + id.ToString();
+                    return RedirectToAction("Index");
+                }
+                return View(product);
+            }
+            catch (Exception ex)
+            {
+                TempData["ErrorMessage"] = ex.Message;
+                return View();
+            }
         }
 
         // GET: Product/Create
@@ -87,7 +101,7 @@ namespace ADO_Project.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    bool IsUpdated = _productDAL.UpdateProduct(product);
+                    bool IsUpdated = _productDAL.UpdateProduct(product);  // returned false why?? çünkü Product_DAL'a post formdan id göndermemişim.
 
                     if (IsUpdated)
                     {

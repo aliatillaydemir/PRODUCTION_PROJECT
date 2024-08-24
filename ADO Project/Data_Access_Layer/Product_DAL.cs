@@ -117,7 +117,7 @@ namespace ADO_Project.Data_Access_Layer
 
 
         //Update Products 
-        public bool UpdateProduct(Product product)
+        public bool UpdateProduct(Product product) //ProductID hidden field post işleminde belirtilemezse 0 idli elemanı güncellemeye çalışır çünkü id bilmiyor
         {
             int rowsAffected = 0;
             using (SqlConnection connection = new SqlConnection(conString))

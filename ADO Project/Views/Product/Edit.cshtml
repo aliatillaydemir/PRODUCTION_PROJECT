@@ -19,6 +19,7 @@
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.ProductID) <!-- ProductID hidden field -->
 
     <div class="form-horizontal">
         <h4>Product</h4>
