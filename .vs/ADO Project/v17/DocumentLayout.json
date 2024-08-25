@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\King\\source\\repos\\ADO Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|c:\\users\\king\\source\\repos\\ado project\\ado project\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|c:\\users\\king\\source\\repos\\ado project\\ado project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\data_access_layer\\product_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\data_access_layer\\product_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0883DCC6-F181-4E61-BFEA-A84100D4EADD}|ADO Project\\ADO Project.csproj|solutionrelative:ado project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\King\\source\\repos\\ADO Project\\ado project\\controllers\\productswebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ado project\\controllers\\productswebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,23 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ADO Project\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Global.asax.cs",
+              "RelativeToolTip": "ADO Project\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:36:20.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,94 +49,33 @@
               "RelativeDocumentMoniker": "ADO Project\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ADO Project\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAAFsAAAANAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAM4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T12:53:04.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "ADO Project\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "ADO Project\\Views\\Product\\Details.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T17:20:24.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ADO Project\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Models\\Product.cs",
-              "RelativeToolTip": "ADO Project\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T17:19:36.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ADO Project\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ADO Project\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T17:18:55.974Z"
+              "WhenOpened": "2024-08-25T11:13:56.267Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ADO Project\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "ADO Project\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T17:15:56.618Z"
+              "Title": "ProductsWebController.cs",
+              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Controllers\\ProductsWebController.cs",
+              "RelativeDocumentMoniker": "ADO Project\\Controllers\\ProductsWebController.cs",
+              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Controllers\\ProductsWebController.cs",
+              "RelativeToolTip": "ADO Project\\Controllers\\ProductsWebController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:41:02.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ADO Project\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "ADO Project\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T18:37:03.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "ADO Project\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "ADO Project\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T16:06:31.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Product_DAL.cs",
               "DocumentMoniker": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Data_Access_Layer\\Product_DAL.cs",
               "RelativeDocumentMoniker": "ADO Project\\Data_Access_Layer\\Product_DAL.cs",
               "ToolTip": "C:\\Users\\King\\source\\repos\\ADO Project\\ADO Project\\Data_Access_Layer\\Product_DAL.cs",
               "RelativeToolTip": "ADO Project\\Data_Access_Layer\\Product_DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T12:16:28.294Z"
+              "WhenOpened": "2024-08-25T12:23:42.157Z"
             }
           ]
         }
